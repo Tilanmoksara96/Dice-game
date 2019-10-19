@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Dice game\Dice game\bin\Debug\Dice game.exe.config
+C:\Users\ASUS\Desktop\Dice game\Dice game\bin\Debug\Dice game.exe
+C:\Users\ASUS\Desktop\Dice game\Dice game\bin\Debug\Dice game.pdb
+C:\Users\ASUS\Desktop\Dice game\Dice game\obj\Debug\Dice game.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Dice game\Dice game\obj\Debug\Dice_game.Form1.resources
+C:\Users\ASUS\Desktop\Dice game\Dice game\obj\Debug\Dice_game.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Dice game\Dice game\obj\Debug\Dice game.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Dice game\Dice game\obj\Debug\Dice game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Dice game\Dice game\obj\Debug\Dice game.exe
+C:\Users\ASUS\Desktop\Dice game\Dice game\obj\Debug\Dice game.pdb
