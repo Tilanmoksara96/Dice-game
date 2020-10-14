@@ -6,4 +6,4 @@ Dice game using basic C# knowledge.
 
 
 #HACKTOBERFEST 2020 
-❤:octocat:
+❤:octocat:❤
